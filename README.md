@@ -1,2 +1,2 @@
 # pageRank
-Two versions of pageRand algorithm: serial and parallel.
+Two versions of pageRank algorithm: serial and parallel.
