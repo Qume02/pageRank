@@ -10,3 +10,14 @@ Serial Implementation: A straightforward, single-threaded version of the PageRan
 Parallel Implementation: An optimized version utilizing multi-threading or distributed processing to handle larger datasets efficiently.
 
 Performance Comparison: Measure and compare execution times for the serial and parallel approaches.
+## Prerequisites
+
+Before running the code, ensure you have the following installed:
+
+A C++ compiler supporting C++ 11 or higher
+
+## Installation
+
+Clone this repository:
+
+git clone https://github.com/Qume02/pageRank.git
